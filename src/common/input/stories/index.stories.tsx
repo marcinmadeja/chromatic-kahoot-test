@@ -5,9 +5,33 @@ export default {
   component: Input
 }
 
-export const Primary = () => <Input id="test" />
-export const InputWithLabel = () => <Input id="test" label="My label" />
-export const InputWithLabelOptional = () => <Input id="test" label="My label" isOptional={true} />
-export const InputWithError = () => <Input id="test" label="Email" errorMessage="Please enter your email address." />
-export const InputDisabled = () => <Input id="test" label="Email" disabled={true} />
-export const InputWithLimit = () => <Input id="test" label="My label" limit={99} />
+export const Primary = () => <div style={{ width: 500 }}><Input id="test" /></div>
+export const InputWithLabel = () => <div style={{ width: 500 }}><Input id="test" label="My label" /></div>
+export const InputWithLabelOptional = () => <div style={{ width: 500 }}><Input id="test" label="My label" isOptional={true} /></div>
+export const InputWithError = () => <div style={{ width: 500 }}><Input id="test" label="Email" errorMessage="Please enter your email address." /></div>
+export const InputDisabled = () => <div style={{ width: 500 }}><Input id="test" label="Email" disabled={true} /></div>
+export const InputWithLimit = () => <div style={{ width: 500 }}><Input id="test" label="My label" limit={99} /></div>
+
+export const AllVariants = () => {
+  return (
+    <div style={{ width: 500 }}>
+      <Input id="test" />
+      <br /><br />
+
+      <Input id="test" label="My label" />
+      <br /><br />
+
+      <Input id="test" label="My label" isOptional={true} />
+      <br /><br />
+
+      <Input id="test" label="Email" errorMessage="Please enter your email address." />
+      <br /><br />
+
+      <Input id="test" label="Email" disabled={true} />
+      <br /><br />
+
+      <Input id="test" label="My label" limit={99} />
+      <br /><br />
+    </div>
+  );
+};
