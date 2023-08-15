@@ -1,11 +1,11 @@
 @storybook/cli v7.2.3
 
-info => Cleaning outputDir: /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--22150-sfK6EZHrlUi3
+info => Cleaning outputDir: /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--24057-0xWWoyflxuJC
 info => Loading presets
 info => Building manager..
-info => Manager built (120 ms)
+info => Manager built (111 ms)
 info => Compiling preview..
-info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoot-test/node_modules/@storybook/manager/static at /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--22150-sfK6EZHrlUi3/sb-common-assets
+info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoot-test/node_modules/@storybook/manager/static at /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--24057-0xWWoyflxuJC/sb-common-assets
 info Addon-docs: using MDX2
 info => Loading Webpack configuration from `node_modules/react-scripts`
 info => Removing existing JavaScript and TypeScript rules.
@@ -119,22 +119,22 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 9% setup compilation
 <s> [webpack.Progress] 10% building
 <s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
-<s> [webpack.Progress] 21% building import loader ./node_modules/babel-loader/lib/index.js
-<s> [webpack.Progress] 21% building import loader ./node_modules/source-map-loader/dist/cjs.js
-<s> [webpack.Progress] 21% building 0/1 entries 10/33 dependencies 2/10 modules
-<s> [webpack.Progress] 15% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
-<s> [webpack.Progress] 15% building 0/1 entries 20/42 dependencies 2/19 modules
-info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoot-test/public at /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--22150-sfK6EZHrlUi3/
-<s> [webpack.Progress] 21% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
-<s> [webpack.Progress] 21% building 0/1 entries 47/88 dependencies 7/33 modules
-<s> [webpack.Progress] 27% building import loader ./node_modules/@svgr/webpack/lib/index.js
-<s> [webpack.Progress] 27% building import loader ./node_modules/file-loader/dist/cjs.js
-<s> [webpack.Progress] 27% building 0/1 entries 73/92 dependencies 18/58 modules
+info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoot-test/public at /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--24057-0xWWoyflxuJC/
+<s> [webpack.Progress] 16% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 16% building import loader ./node_modules/source-map-loader/dist/cjs.js
+<s> [webpack.Progress] 16% building 0/1 entries 16/33 dependencies 2/16 modules
+<s> [webpack.Progress] 16% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
+<s> [webpack.Progress] 16% building 0/1 entries 19/42 dependencies 2/18 modules
+<s> [webpack.Progress] 20% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
+<s> [webpack.Progress] 20% building 0/1 entries 46/88 dependencies 6/32 modules
+<s> [webpack.Progress] 28% building import loader ./node_modules/@svgr/webpack/lib/index.js
+<s> [webpack.Progress] 28% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 28% building 0/1 entries 69/92 dependencies 18/54 modules
 <s> [webpack.Progress] 33% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 33% building import loader ./node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 33% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 33% building 0/1 entries 226/263 dependencies 54/128 modules
-<s> [webpack.Progress] 39% building 0/1 entries 774/800 dependencies 186/350 modules
+<s> [webpack.Progress] 33% building 0/1 entries 219/264 dependencies 52/124 modules
+<s> [webpack.Progress] 40% building 0/1 entries 782/800 dependencies 195/350 modules
 <s> [webpack.Progress] 65% building 1/1 entries 2123/2123 dependencies 825/825 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -241,18 +241,18 @@ info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoo
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.b8d5f206.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.b8d5f206.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.2674ceb2.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.2674ceb2.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.fbaf4b7d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.fbaf4b7d.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Configure-mdx.01beeb59.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Configure-mdx.01beeb59.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.f7791470.chunk.css generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.f7791470.chunk.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.6f1c01f7.chunk.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.6f1c01f7.chunk.css generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-button-raised-stories-index-stories.4a14044d.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-button-raised-stories-index-stories.4a14044d.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-button-stories-index-stories.89a7c65a.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-button-stories-index-stories.89a7c65a.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.ac7e17f0.chunk.css generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.ac7e17f0.chunk.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.12a6da4a.chunk.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.12a6da4a.chunk.css generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-dialog-stories-index-stories.be2923d9.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin common-dialog-stories-index-stories.be2923d9.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-input-stories-index-stories.c390176f.chunk.css generate SourceMap
@@ -316,10 +316,10 @@ info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoo
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 866.96f7a2f1.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 866.96f7a2f1.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.f7791470.chunk.css attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.f7791470.chunk.css attached SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.ac7e17f0.chunk.css attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.ac7e17f0.chunk.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.6f1c01f7.chunk.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-button-raised-stories-index-stories.6f1c01f7.chunk.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.12a6da4a.chunk.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-dialog-stories-index-stories.12a6da4a.chunk.css attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-input-stories-index-stories.c390176f.chunk.css attach SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/common-input-stories-index-stories.c390176f.chunk.css attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css attach SourceMap
@@ -348,8 +348,8 @@ info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoo
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.beb14352.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.beb14352.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.0d7e9edc.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.0d7e9edc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.cc72088a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.cc72088a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.45cb6a48.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.45cb6a48.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 328.9db4f5dc.iframe.bundle.js generate SourceMap
@@ -428,7 +428,7 @@ info => Copying static files: /Users/marcinm@kahoot.com/learning/chromatic-kahoo
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (6.46 s)
+info => Preview built (6.88 s)
 WARN [eslint] 
 WARN src/common/input/input.tsx
 WARN   Line 2:10:  'PropsWithChildren' is defined but never used  @typescript-eslint/no-unused-vars
@@ -445,7 +445,7 @@ WARN   866.13905d27.iframe.bundle.js (726 KiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (742 KiB)
-WARN       runtime~main.0d7e9edc.iframe.bundle.js
+WARN       runtime~main.cc72088a.iframe.bundle.js
 WARN       866.13905d27.iframe.bundle.js
 WARN       main.beb14352.iframe.bundle.js
 WARN 
@@ -453,4 +453,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--22150-sfK6EZHrlUi3
+info => Output directory: /var/folders/n9/q_wc8cxx4wggllr2q2wyc36c0000gp/T/chromatic--24057-0xWWoyflxuJC
