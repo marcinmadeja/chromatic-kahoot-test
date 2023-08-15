@@ -15,6 +15,10 @@ export const Primary = () => {
       <br /><br />
 
       <Button className='color-grey'>Button Raised grey</Button>
+
+      <br /><br />
+
+      <Button className='color-yellow'>Button Raised grey</Button>
     </div>
   );
 };

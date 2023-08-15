@@ -70,3 +70,16 @@
 .button-raised.color-grey:active {
   background-color: rgb(202, 202, 202);
 }
+
+.button-raised.color-yellow {
+  background: rgb(168, 194, 4);
+  color: rgb(255, 255, 255);
+}
+
+.button-raised.color-green:hover {
+  background-color: rgb(131, 151, 3);
+}
+
+.button-raised.color-green:active {
+  background-color: rgb(101, 116, 0);
+}
