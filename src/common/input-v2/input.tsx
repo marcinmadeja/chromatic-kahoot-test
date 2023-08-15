@@ -25,11 +25,11 @@ export const Input = ({ className, label, id, errorMessage, disabled, limit, isO
   return (
     <div className={`input__wrapper ${!!errorMessage && 'is-error'} ${!!disabled && 'is-disabled'}`}>
       {label && <label className="input__label" htmlFor={id}>{label} {!!isOptional && <span className="input__optional">(Optional)</span> }</label>}
-      {!!errorMessage && <div className="input__error">{errorMessage}</div>}
       <div className="input__container">
         <input {...args} id={id} className={`input ${className}`} disabled={disabled} />
         {limit !== undefined && <div className="input__limit">{limit}</div>}
       </div>
+      {!!errorMessage && <div className="input__error">{errorMessage}</div>}
     </div>
   );
 }
